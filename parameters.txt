@@ -1,0 +1,1 @@
+{"projname": "testfile", "photographer": "Elle Stapleton", "longitude": 73.185691, "latitude": 0.216724, "location": "Maldives", "date": "20171227", "species": "Cool Coral"}
